@@ -116,7 +116,7 @@ export function apply(ctx: Context, config: Config) {
               overflowWrap: "break-word",
             }}
           >
-            {h.parse(result)}
+            {h.parse(result.replace(/\n/g, "<br>"))}
           </div>
         </html>
       )

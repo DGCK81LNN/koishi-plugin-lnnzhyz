@@ -1,7 +1,7 @@
 {
   "name": "@dgck81lnn/koishi-plugin-lnnzhyz",
   "description": "@dgck81lnn/lnnzhyz2svg as a koishi command",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
